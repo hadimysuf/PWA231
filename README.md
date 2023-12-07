@@ -12,30 +12,47 @@ Repository untuk perkuliahan pemrograman 1 (Design Website dan Pemrograman) dima
 | 85 - 100 | 78 - 84,99 | 70 - 77,99 | 65 - 69,99 | 60 - 64,99 | 41 - 59,99 | <40,99|
 
 # Data Nilai
-| NPM | Nama | Tugas 1 | Tugas 2|
-| -------- | -------- | -------- | -------- |
-| 714230003 | Resqi Aulia Gita Utami | | |
-| 714230005  | Reva Andini Busra| | |
-| 714230007  | Muhammad Nizar Akmal | | |
-| 714230011  | Marselinus Naisau | | |
-| 714230012  | Muflih Afif Mukhtalif | | |
-| 714230015  | Dilla Yusira Putri | | |
-| 714230018  | Efendi Sugiantoro | | |
-| 714230019  | Hadi Muhammad Yusuf | | |
-| 714230021  | Muhammad Haitsam Izzuddin Azman | | |
-| 714230022  | Nurfanis Rosman | | |
-| 714230023  | Ananda Raka Aditya Wilangga | | |
-| 714230025  | Rifky Najra Adipura | | |
-| 714230026  | Afifah Naufal Rahmani | | |
-| 714230030  | Rendy Kamaluddin | | |
-| 714230031  | Hafizh Fakhri Muharram | | |
-| 714230032  | Ode Andi Alamsyah | | |
-| 714230035  | Ahmad Karta Nugraha | | |
-| 714230039  | Indah Diva Gracia | | |
-| 714230040  | Hadzik Mochamad Sofyan | | |
-| 714230041  | Muhamad Adi Apriansyah | | |
-| 714230042  | Savana Zahra Humaira | | |
-| 714230043  | Miqdam Syiam Nurrohman | | |
+| NPM | Nama | Tugas 1 | Tugas 2| Assesment 1|
+| -------- | -------- | -------- | -------- |-------- |
+| 714230003 | Resqi Aulia Gita Utami | | |100 |
+| 714230005  | Reva Andini Busra| | |90 |
+| 714230007  | Muhammad Nizar Akmal | | | 100 |
+| 714230011  | Marselinus Naisau | | | 65|
+| 714230012  | Muflih Afif Mukhtalif | | | 100|
+| 714230015  | Dilla Yusira Putri | | |85|
+| 714230018  | Efendi Sugiantoro | | | |
+| 714230019  | Hadi Muhammad Yusuf | | |100 |
+| 714230021  | Muhammad Haitsam Izzuddin Azman | | |100 |
+| 714230022  | Nurfanis Rosman | | | |
+| 714230023  | Ananda Raka Aditya Wilangga | | | 100 |
+| 714230025  | Rifky Najra Adipura | | | 100 |
+| 714230026  | Afifah Naufal Rahmani | | | 80|
+| 714230028  | Nesya Salma Ramadhani | | |95|
+| 714230030  | Rendy Kamaluddin | | |90 |
+| 714230031  | Hafizh Fakhri Muharram | | | 100|
+| 714230032  | Ode Andi Alamsyah | | | 70|
+| 714230035  | Ahmad Karta Nugraha | | |100 |
+| 714230039  | Indah Diva Gracia | | | 65|
+| 714230040  | Hadzik Mochamad Sofyan | | | 100 |
+| 714230041  | Muhamad Adi Apriansyah | | |60 |
+| 714230042  | Savana Zahra Humaira | | |60 |
+| 714230043  | Miqdam Syiam Nurrohman | | | 100 |
+
+# Data Kelompok
+| Kelompok | Ketua | Anggota | 
+| -------- | -------- | -------- |
+| Kelompok 01 | Ahmad Karta Nugraha | Galuh |
+| Kelompok 02 | Afifah Naufal Rahmani | Nizar |
+| Kelompok 03 | Haitsam | Resqi |
+| Kelompok 04 | Rendy | Indah |
+| Kelompok 05 | Hadzik | Hadi & Nesya |
+| Kelompok 06 | Miqdam | Bagus |
+| Kelompok 07 | Dilla | Reva |
+| Kelompok 08 | Raka | Savana |
+| Kelompok 09 | Efendi | Nurfanis |
+| Kelompok 10 | Hafizh | Muflih |
+| Kelompok 11 | Rifky | Marselius |
+| Kelompok 12 | Adi | Ode Andi |
 
 # Progress - Rencana Pembelajaran Semester (RPS) 
 1. Pengenalan ke Logika Pemrograman (Programming Logic 101)
